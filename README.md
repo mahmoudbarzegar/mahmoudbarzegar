@@ -12,4 +12,4 @@ I'm a Full-Stack Developer passionate about learning and building innovative sol
 - [python-grpc-service](https://github.com/mahmoudbarzegar/python-grpc-service): A gRPC service built with Python and Django.
 
 ## 📫 Contact Me
-- [LinkedIn](https://www.linkedin.com/in/mahmoud-barzegar-hedesh-6a26bb51/)
+- [LinkedIn](https://www.linkedin.com/in/mahmoud-barzegar/)
