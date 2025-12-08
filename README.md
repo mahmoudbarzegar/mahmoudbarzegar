@@ -8,8 +8,9 @@ I'm a Full-Stack Developer passionate about learning and building innovative sol
 - Tools: Git, Docker, MySQL
 
 ## 📂 Projects
-- [jobsmartai](https://github.com/mahmoudbarzegar/jobsmartai): An AI-powered assistant for job seekers.
+- [Job Smart AI](https://github.com/mahmoudbarzegar/jobsmartai): An AI-powered assistant for job seekers.
 - [python-grpc-service](https://github.com/mahmoudbarzegar/python-grpc-service): A gRPC service built with Python and Django.
+- [Code Reviewer AI](https://github.com/mahmoudbarzegar/code-reviewer-AI): A code reviewer AI with Python and Ollama.
 
 ## 📫 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/mahmoud-barzegar/)
