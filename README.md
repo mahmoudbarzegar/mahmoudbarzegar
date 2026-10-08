@@ -15,6 +15,12 @@ I create videos about software development, backend engineering, Python, PHP, an
 
 👉 [Visit my Aparat channel](https://www.aparat.com/techwithmahmoud)
 
+
+## 🎥 YouTube Persian
+
+👉 [Visit my YouTube Persian channel](https://www.youtube.com/@techwithmahmoudpersian)
+
+
 ## 🛠️ Skills
 
 - **Languages:** Python, PHP, JavaScript
